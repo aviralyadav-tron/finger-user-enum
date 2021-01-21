@@ -1,0 +1,1 @@
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 sunny@10.10.10.76 -p22022
